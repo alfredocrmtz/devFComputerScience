@@ -1,0 +1,11 @@
+Revisa par e impart
+
+Usuario ingresa cadena
+SI cadena es entero
+    SI multiplo de 2
+        Mostrar "Es PAR"
+    SI NO
+        Mostrar "No es PAR"
+    TERMINA programa.
+SI NO 
+    Regresa al inicio.
